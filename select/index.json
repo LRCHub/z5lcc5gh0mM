@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "バースデイ・ソング",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T03:09:38.638882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "八神純子",
+      "has_synced": true,
+      "path": "select/01_バースデイ・ソング_八神純子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Yagami, Junko",
+      "has_synced": true,
+      "path": "select/02_バースデイ・ソング_Yagami,_Junko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Junko Yagami",
+      "has_synced": true,
+      "path": "select/03_バースデイ・ソング_Junko_Yagami.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バースデイ・ソング",
+      "artist": "Junko Yagami (八神純子)",
+      "has_synced": true,
+      "path": "select/04_バースデイ・ソング_Junko_Yagami_(八神純子).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バースディ・ソング",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_バースディ・ソング_なとり.txt"
+    }
+  ]
+}
